@@ -1,4 +1,4 @@
-## Hello :smile:
+## Hello :smile::wave:
 ### My self Prince Gadhiya.
 
 - I have gone through this doc and learnt about various Github Terms like,
